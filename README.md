@@ -1,0 +1,2 @@
+# smc-bot-
+trading bot 
